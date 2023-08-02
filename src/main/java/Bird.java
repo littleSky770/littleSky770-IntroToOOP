@@ -1,6 +1,5 @@
 
 /**
- * 
  * Problem:
  * As of right now, Java comes with 8 primitive datatypes. 
  * What if we wanted to create our own datatypes?
